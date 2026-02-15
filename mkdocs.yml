@@ -1,5 +1,5 @@
 site_name: Chad Langford
-site_url: https://mydomain.org/mysite
+site_url: https://cwlangford.github.io
 theme:
   name: material
   palette:
