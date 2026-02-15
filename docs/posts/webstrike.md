@@ -23,4 +23,5 @@ Identifying the geographical origin of the attack facilitates the implementation
 
 The packet capture contains a total of two IPv4 addresses: `117.11.88.124` & `24.49.63.79`.
 
-![alt text](<Pasted image 20260208223750.png>)
+![tesst](../assets/Pasted image 20260208223750.png)
+
