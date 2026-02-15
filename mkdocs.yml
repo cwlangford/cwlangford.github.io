@@ -2,3 +2,10 @@ site_name: Chad Langford
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  palette:
+    - scheme: slate
+      primary: black
+plugins:
+  - blog:
+      blog_dir: .
+      post_readtime: true
